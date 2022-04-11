@@ -45,4 +45,5 @@ https://user-images.githubusercontent.com/60453161/162291573-32d189ae-ab86-4bce-
 
 - [Leonardo Pinto Silva Calazans - Matricula: 2020101772](https://github.com/LeonardoCalazans)
 - [Wendel Felipe Nascimento Nogueira - Matrícula: 2020101189](https://github.com/WendelNogueira23)
-- [Lucas Gomes Ribeiro - Matrícula: 2020101323](https://github.com/LucsGomes)
+- [Lucas Gomes Ribeiro - Matrícula: 2020101323](https://github.com/LucsGomes) 
+-  [Julio Cesar de Souz Lima -  Matricula: 2013201790](https://github.com/JulioSouzza)
